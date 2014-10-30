@@ -1,0 +1,7 @@
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\bin\Debug\FileOparationApps.exe
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\bin\Debug\FileOparationApps.pdb
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\obj\x86\Debug\FileOparationApps.FileOparationApps.resources
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\obj\x86\Debug\FileOparationApps.Properties.Resources.resources
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\obj\x86\Debug\FileOparationApps.csproj.GenerateResource.Cache
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\obj\x86\Debug\FileOparationApps.exe
+B:\BASIS\all practice\FileOparationApps\FileOparationApps\obj\x86\Debug\FileOparationApps.pdb
